@@ -9,4 +9,8 @@
 
 Я попробую задеплойть, и пусть у меня всё получится!
 I will try to deploy it, and hopefully, I will succeed!
+
 https://idoni.pythonanywhere.com/
+
+У меня всё заработало! Кто молодец? iDONi молодец! 🎉
+It’s working! Who's awesome? iDONi is awesome! 🎉
