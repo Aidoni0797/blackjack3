@@ -4,3 +4,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+Я попробую задеплойть, и пусть у меня всё получится!
+I will try to deploy it, and hopefully, I will succeed!
+https://idoni.pythonanywhere.com/
