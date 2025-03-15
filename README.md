@@ -14,3 +14,11 @@ https://idoni.pythonanywhere.com/
 
 У меня всё заработало! Кто молодец? iDONi молодец! 🎉
 It’s working! Who's awesome? iDONi is awesome! 🎉
+
+
+def get_ip(request):
+    # Проверка на наличие заголовка X-Forwarded-For
+    real_ip = request.META.get('HTTP_X_FORWARDED_FOR', request.META.get('REMOTE_ADDR'))
+    return HttpResponse(f"Your real IP is: {real_ip}")
+
+//iDONi изучай
